@@ -1,4 +1,3 @@
-```markdown
 # Anime Recommendation Data Analysis
 
 This project analyzes anime data and user ratings using two datasets: `anime.csv` and `rating.csv`. It explores various insights such as anime rating distributions, genre popularity, user ratings, and more. The project also includes visualizations to represent the data effectively.
